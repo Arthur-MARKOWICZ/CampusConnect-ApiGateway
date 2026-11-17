@@ -1,4 +1,6 @@
 # Campus Connect — gateway-service
+Membros do grupo:  Andre Benato , Arthur Lopes, Gustavo Tissot, Luigi Millani
+
 
 **Ponto unico de entrada** da API: Spring Cloud Gateway (proxy + CORS + rastreio) e **BFF** (agregacao com WebClient).
 
